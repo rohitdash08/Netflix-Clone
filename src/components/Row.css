@@ -19,12 +19,15 @@
   width: 100%;
   max-height: 100px;
   margin-right: 10px;
-  transition: transform 450ms;
+  transition: transform 450ms, background-color 300ms;
+  background-color: silver;
 }
 
 .row__posters:hover {
   transform: scale(1.08);
   opacity: 1;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 1);
+  background-color: silver;
 }
 
 .row__postersLarge {

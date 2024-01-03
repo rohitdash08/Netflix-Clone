@@ -9,8 +9,15 @@ The app allows users to browse and watch trailers, and it has been deployed on F
 # Screenshots
 
 ![Screenshot 1](Screenshots/HomePage.png)
+
+
 ![Screenshot 2](Screenshots/HomePage2.png)
+
+
 ![Screenshot 3](Screenshots/Screenshot3.png)
+
+
+
 
 ## Getting Started
 
